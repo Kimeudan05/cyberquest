@@ -1,0 +1,128 @@
+[
+  {
+    "name": "First Step",
+    "description": "Complete your very first quiz!",
+    "image_filename": "badge_first_step.svg",
+    "criteria_type": "module_complete",
+    "criteria_value": "1",
+    "age_group": "all",
+    "sort_order": 1
+  },
+  {
+    "name": "Password Pro",
+    "description": "Score 80% or higher on a Password Safety module.",
+    "image_filename": "badge_password_pro.svg",
+    "criteria_type": "topic_mastery",
+    "criteria_value": "password_safety",
+    "age_group": "all",
+    "sort_order": 2
+  },
+  {
+    "name": "Phishing Fighter",
+    "description": "Score 80% or higher on a Phishing module.",
+    "image_filename": "badge_phishing_fighter.svg",
+    "criteria_type": "topic_mastery",
+    "criteria_value": "phishing",
+    "age_group": "all",
+    "sort_order": 3
+  },
+  {
+    "name": "Privacy Guardian",
+    "description": "Score 80% or higher on a Privacy module.",
+    "image_filename": "badge_privacy_guardian.svg",
+    "criteria_type": "topic_mastery",
+    "criteria_value": "privacy",
+    "age_group": "all",
+    "sort_order": 4
+  },
+  {
+    "name": "Safe Poster",
+    "description": "Score 80% or higher on a Social Media Safety module.",
+    "image_filename": "badge_safe_poster.svg",
+    "criteria_type": "topic_mastery",
+    "criteria_value": "social_media_safety",
+    "age_group": "all",
+    "sort_order": 5
+  },
+  {
+    "name": "Kind Defender",
+    "description": "Score 80% or higher on a Cyberbullying module.",
+    "image_filename": "badge_kind_defender.svg",
+    "criteria_type": "topic_mastery",
+    "criteria_value": "cyberbullying",
+    "age_group": "all",
+    "sort_order": 6
+  },
+  {
+    "name": "Download Detective",
+    "description": "Score 80% or higher on a Safe Downloads module.",
+    "image_filename": "badge_download_detective.svg",
+    "criteria_type": "topic_mastery",
+    "criteria_value": "safe_downloads",
+    "age_group": "all",
+    "sort_order": 7
+  },
+  {
+    "name": "Device Shield",
+    "description": "Score 80% or higher on a Device Security module.",
+    "image_filename": "badge_device_shield.svg",
+    "criteria_type": "topic_mastery",
+    "criteria_value": "device_security",
+    "age_group": "all",
+    "sort_order": 8
+  },
+  {
+    "name": "3-Day Streak",
+    "description": "Log in and learn for 3 days in a row.",
+    "image_filename": "badge_streak_3.svg",
+    "criteria_type": "streak",
+    "criteria_value": "3",
+    "age_group": "all",
+    "sort_order": 9
+  },
+  {
+    "name": "7-Day Streak",
+    "description": "Log in and learn for 7 days in a row!",
+    "image_filename": "badge_streak_7.svg",
+    "criteria_type": "streak",
+    "criteria_value": "7",
+    "age_group": "all",
+    "sort_order": 10
+  },
+  {
+    "name": "Level 5 Hero",
+    "description": "Reach XP Level 5.",
+    "image_filename": "badge_level_5.svg",
+    "criteria_type": "level",
+    "criteria_value": "5",
+    "age_group": "all",
+    "sort_order": 11
+  },
+  {
+    "name": "CyberQuest Master",
+    "description": "Reach XP Level 10 — the highest level!",
+    "image_filename": "badge_level_10.svg",
+    "criteria_type": "level",
+    "criteria_value": "10",
+    "age_group": "all",
+    "sort_order": 12
+  },
+  {
+    "name": "Perfect Score",
+    "description": "Answer every question correctly in a single quiz.",
+    "image_filename": "badge_perfect_score.svg",
+    "criteria_type": "score",
+    "criteria_value": "1.0",
+    "age_group": "all",
+    "sort_order": 13
+  },
+  {
+    "name": "Cyber Hero",
+    "description": "Complete all 7 cybersecurity topics.",
+    "image_filename": "badge_cyber_hero.svg",
+    "criteria_type": "special",
+    "criteria_value": "all_topics_complete",
+    "age_group": "all",
+    "sort_order": 14
+  }
+]

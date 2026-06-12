@@ -1,0 +1,884 @@
+[
+  {
+    "module_ref": {
+      "topic": "password_safety",
+      "age_group": "junior",
+      "difficulty": "beginner"
+    },
+    "title": "Password Safety: Junior Beginner",
+    "topic": "password_safety",
+    "description": "Learn about password safety at a beginner level.",
+    "age_group": "junior",
+    "difficulty": "beginner",
+    "icon": "\ud83d\udd11",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "password_safety",
+      "age_group": "junior",
+      "difficulty": "intermediate"
+    },
+    "title": "Password Safety: Junior Intermediate",
+    "topic": "password_safety",
+    "description": "Learn about password safety at a intermediate level.",
+    "age_group": "junior",
+    "difficulty": "intermediate",
+    "icon": "\ud83d\udd11",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "password_safety",
+      "age_group": "junior",
+      "difficulty": "advanced"
+    },
+    "title": "Password Safety: Junior Advanced",
+    "topic": "password_safety",
+    "description": "Learn about password safety at a advanced level.",
+    "age_group": "junior",
+    "difficulty": "advanced",
+    "icon": "\ud83d\udd11",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "password_safety",
+      "age_group": "explorer",
+      "difficulty": "beginner"
+    },
+    "title": "Password Safety: Explorer Beginner",
+    "topic": "password_safety",
+    "description": "Learn about password safety at a beginner level.",
+    "age_group": "explorer",
+    "difficulty": "beginner",
+    "icon": "\ud83d\udd11",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "password_safety",
+      "age_group": "explorer",
+      "difficulty": "intermediate"
+    },
+    "title": "Password Safety: Explorer Intermediate",
+    "topic": "password_safety",
+    "description": "Learn about password safety at a intermediate level.",
+    "age_group": "explorer",
+    "difficulty": "intermediate",
+    "icon": "\ud83d\udd11",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "password_safety",
+      "age_group": "explorer",
+      "difficulty": "advanced"
+    },
+    "title": "Password Safety: Explorer Advanced",
+    "topic": "password_safety",
+    "description": "Learn about password safety at a advanced level.",
+    "age_group": "explorer",
+    "difficulty": "advanced",
+    "icon": "\ud83d\udd11",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "password_safety",
+      "age_group": "ranger",
+      "difficulty": "beginner"
+    },
+    "title": "Password Safety: Ranger Beginner",
+    "topic": "password_safety",
+    "description": "Learn about password safety at a beginner level.",
+    "age_group": "ranger",
+    "difficulty": "beginner",
+    "icon": "\ud83d\udd11",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "password_safety",
+      "age_group": "ranger",
+      "difficulty": "intermediate"
+    },
+    "title": "Password Safety: Ranger Intermediate",
+    "topic": "password_safety",
+    "description": "Learn about password safety at a intermediate level.",
+    "age_group": "ranger",
+    "difficulty": "intermediate",
+    "icon": "\ud83d\udd11",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "password_safety",
+      "age_group": "ranger",
+      "difficulty": "advanced"
+    },
+    "title": "Password Safety: Ranger Advanced",
+    "topic": "password_safety",
+    "description": "Learn about password safety at a advanced level.",
+    "age_group": "ranger",
+    "difficulty": "advanced",
+    "icon": "\ud83d\udd11",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "phishing",
+      "age_group": "junior",
+      "difficulty": "beginner"
+    },
+    "title": "Spot Phishing: Junior Beginner",
+    "topic": "phishing",
+    "description": "Learn about spot phishing at a beginner level.",
+    "age_group": "junior",
+    "difficulty": "beginner",
+    "icon": "\ud83c\udfa3",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "phishing",
+      "age_group": "junior",
+      "difficulty": "intermediate"
+    },
+    "title": "Spot Phishing: Junior Intermediate",
+    "topic": "phishing",
+    "description": "Learn about spot phishing at a intermediate level.",
+    "age_group": "junior",
+    "difficulty": "intermediate",
+    "icon": "\ud83c\udfa3",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "phishing",
+      "age_group": "junior",
+      "difficulty": "advanced"
+    },
+    "title": "Spot Phishing: Junior Advanced",
+    "topic": "phishing",
+    "description": "Learn about spot phishing at a advanced level.",
+    "age_group": "junior",
+    "difficulty": "advanced",
+    "icon": "\ud83c\udfa3",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "phishing",
+      "age_group": "explorer",
+      "difficulty": "beginner"
+    },
+    "title": "Spot Phishing: Explorer Beginner",
+    "topic": "phishing",
+    "description": "Learn about spot phishing at a beginner level.",
+    "age_group": "explorer",
+    "difficulty": "beginner",
+    "icon": "\ud83c\udfa3",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "phishing",
+      "age_group": "explorer",
+      "difficulty": "intermediate"
+    },
+    "title": "Spot Phishing: Explorer Intermediate",
+    "topic": "phishing",
+    "description": "Learn about spot phishing at a intermediate level.",
+    "age_group": "explorer",
+    "difficulty": "intermediate",
+    "icon": "\ud83c\udfa3",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "phishing",
+      "age_group": "explorer",
+      "difficulty": "advanced"
+    },
+    "title": "Spot Phishing: Explorer Advanced",
+    "topic": "phishing",
+    "description": "Learn about spot phishing at a advanced level.",
+    "age_group": "explorer",
+    "difficulty": "advanced",
+    "icon": "\ud83c\udfa3",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "phishing",
+      "age_group": "ranger",
+      "difficulty": "beginner"
+    },
+    "title": "Spot Phishing: Ranger Beginner",
+    "topic": "phishing",
+    "description": "Learn about spot phishing at a beginner level.",
+    "age_group": "ranger",
+    "difficulty": "beginner",
+    "icon": "\ud83c\udfa3",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "phishing",
+      "age_group": "ranger",
+      "difficulty": "intermediate"
+    },
+    "title": "Spot Phishing: Ranger Intermediate",
+    "topic": "phishing",
+    "description": "Learn about spot phishing at a intermediate level.",
+    "age_group": "ranger",
+    "difficulty": "intermediate",
+    "icon": "\ud83c\udfa3",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "phishing",
+      "age_group": "ranger",
+      "difficulty": "advanced"
+    },
+    "title": "Spot Phishing: Ranger Advanced",
+    "topic": "phishing",
+    "description": "Learn about spot phishing at a advanced level.",
+    "age_group": "ranger",
+    "difficulty": "advanced",
+    "icon": "\ud83c\udfa3",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "privacy",
+      "age_group": "junior",
+      "difficulty": "beginner"
+    },
+    "title": "Stay Private: Junior Beginner",
+    "topic": "privacy",
+    "description": "Learn about stay private at a beginner level.",
+    "age_group": "junior",
+    "difficulty": "beginner",
+    "icon": "\ud83d\udd12",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "privacy",
+      "age_group": "junior",
+      "difficulty": "intermediate"
+    },
+    "title": "Stay Private: Junior Intermediate",
+    "topic": "privacy",
+    "description": "Learn about stay private at a intermediate level.",
+    "age_group": "junior",
+    "difficulty": "intermediate",
+    "icon": "\ud83d\udd12",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "privacy",
+      "age_group": "junior",
+      "difficulty": "advanced"
+    },
+    "title": "Stay Private: Junior Advanced",
+    "topic": "privacy",
+    "description": "Learn about stay private at a advanced level.",
+    "age_group": "junior",
+    "difficulty": "advanced",
+    "icon": "\ud83d\udd12",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "privacy",
+      "age_group": "explorer",
+      "difficulty": "beginner"
+    },
+    "title": "Stay Private: Explorer Beginner",
+    "topic": "privacy",
+    "description": "Learn about stay private at a beginner level.",
+    "age_group": "explorer",
+    "difficulty": "beginner",
+    "icon": "\ud83d\udd12",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "privacy",
+      "age_group": "explorer",
+      "difficulty": "intermediate"
+    },
+    "title": "Stay Private: Explorer Intermediate",
+    "topic": "privacy",
+    "description": "Learn about stay private at a intermediate level.",
+    "age_group": "explorer",
+    "difficulty": "intermediate",
+    "icon": "\ud83d\udd12",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "privacy",
+      "age_group": "explorer",
+      "difficulty": "advanced"
+    },
+    "title": "Stay Private: Explorer Advanced",
+    "topic": "privacy",
+    "description": "Learn about stay private at a advanced level.",
+    "age_group": "explorer",
+    "difficulty": "advanced",
+    "icon": "\ud83d\udd12",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "privacy",
+      "age_group": "ranger",
+      "difficulty": "beginner"
+    },
+    "title": "Stay Private: Ranger Beginner",
+    "topic": "privacy",
+    "description": "Learn about stay private at a beginner level.",
+    "age_group": "ranger",
+    "difficulty": "beginner",
+    "icon": "\ud83d\udd12",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "privacy",
+      "age_group": "ranger",
+      "difficulty": "intermediate"
+    },
+    "title": "Stay Private: Ranger Intermediate",
+    "topic": "privacy",
+    "description": "Learn about stay private at a intermediate level.",
+    "age_group": "ranger",
+    "difficulty": "intermediate",
+    "icon": "\ud83d\udd12",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "privacy",
+      "age_group": "ranger",
+      "difficulty": "advanced"
+    },
+    "title": "Stay Private: Ranger Advanced",
+    "topic": "privacy",
+    "description": "Learn about stay private at a advanced level.",
+    "age_group": "ranger",
+    "difficulty": "advanced",
+    "icon": "\ud83d\udd12",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "social_media_safety",
+      "age_group": "junior",
+      "difficulty": "beginner"
+    },
+    "title": "Social Media Safety: Junior Beginner",
+    "topic": "social_media_safety",
+    "description": "Learn about social media safety at a beginner level.",
+    "age_group": "junior",
+    "difficulty": "beginner",
+    "icon": "\ud83d\udcf1",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "social_media_safety",
+      "age_group": "junior",
+      "difficulty": "intermediate"
+    },
+    "title": "Social Media Safety: Junior Intermediate",
+    "topic": "social_media_safety",
+    "description": "Learn about social media safety at a intermediate level.",
+    "age_group": "junior",
+    "difficulty": "intermediate",
+    "icon": "\ud83d\udcf1",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "social_media_safety",
+      "age_group": "junior",
+      "difficulty": "advanced"
+    },
+    "title": "Social Media Safety: Junior Advanced",
+    "topic": "social_media_safety",
+    "description": "Learn about social media safety at a advanced level.",
+    "age_group": "junior",
+    "difficulty": "advanced",
+    "icon": "\ud83d\udcf1",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "social_media_safety",
+      "age_group": "explorer",
+      "difficulty": "beginner"
+    },
+    "title": "Social Media Safety: Explorer Beginner",
+    "topic": "social_media_safety",
+    "description": "Learn about social media safety at a beginner level.",
+    "age_group": "explorer",
+    "difficulty": "beginner",
+    "icon": "\ud83d\udcf1",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "social_media_safety",
+      "age_group": "explorer",
+      "difficulty": "intermediate"
+    },
+    "title": "Social Media Safety: Explorer Intermediate",
+    "topic": "social_media_safety",
+    "description": "Learn about social media safety at a intermediate level.",
+    "age_group": "explorer",
+    "difficulty": "intermediate",
+    "icon": "\ud83d\udcf1",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "social_media_safety",
+      "age_group": "explorer",
+      "difficulty": "advanced"
+    },
+    "title": "Social Media Safety: Explorer Advanced",
+    "topic": "social_media_safety",
+    "description": "Learn about social media safety at a advanced level.",
+    "age_group": "explorer",
+    "difficulty": "advanced",
+    "icon": "\ud83d\udcf1",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "social_media_safety",
+      "age_group": "ranger",
+      "difficulty": "beginner"
+    },
+    "title": "Social Media Safety: Ranger Beginner",
+    "topic": "social_media_safety",
+    "description": "Learn about social media safety at a beginner level.",
+    "age_group": "ranger",
+    "difficulty": "beginner",
+    "icon": "\ud83d\udcf1",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "social_media_safety",
+      "age_group": "ranger",
+      "difficulty": "intermediate"
+    },
+    "title": "Social Media Safety: Ranger Intermediate",
+    "topic": "social_media_safety",
+    "description": "Learn about social media safety at a intermediate level.",
+    "age_group": "ranger",
+    "difficulty": "intermediate",
+    "icon": "\ud83d\udcf1",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "social_media_safety",
+      "age_group": "ranger",
+      "difficulty": "advanced"
+    },
+    "title": "Social Media Safety: Ranger Advanced",
+    "topic": "social_media_safety",
+    "description": "Learn about social media safety at a advanced level.",
+    "age_group": "ranger",
+    "difficulty": "advanced",
+    "icon": "\ud83d\udcf1",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "cyberbullying",
+      "age_group": "junior",
+      "difficulty": "beginner"
+    },
+    "title": "Beat Bullying: Junior Beginner",
+    "topic": "cyberbullying",
+    "description": "Learn about beat bullying at a beginner level.",
+    "age_group": "junior",
+    "difficulty": "beginner",
+    "icon": "\ud83e\udd1d",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "cyberbullying",
+      "age_group": "junior",
+      "difficulty": "intermediate"
+    },
+    "title": "Beat Bullying: Junior Intermediate",
+    "topic": "cyberbullying",
+    "description": "Learn about beat bullying at a intermediate level.",
+    "age_group": "junior",
+    "difficulty": "intermediate",
+    "icon": "\ud83e\udd1d",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "cyberbullying",
+      "age_group": "junior",
+      "difficulty": "advanced"
+    },
+    "title": "Beat Bullying: Junior Advanced",
+    "topic": "cyberbullying",
+    "description": "Learn about beat bullying at a advanced level.",
+    "age_group": "junior",
+    "difficulty": "advanced",
+    "icon": "\ud83e\udd1d",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "cyberbullying",
+      "age_group": "explorer",
+      "difficulty": "beginner"
+    },
+    "title": "Beat Bullying: Explorer Beginner",
+    "topic": "cyberbullying",
+    "description": "Learn about beat bullying at a beginner level.",
+    "age_group": "explorer",
+    "difficulty": "beginner",
+    "icon": "\ud83e\udd1d",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "cyberbullying",
+      "age_group": "explorer",
+      "difficulty": "intermediate"
+    },
+    "title": "Beat Bullying: Explorer Intermediate",
+    "topic": "cyberbullying",
+    "description": "Learn about beat bullying at a intermediate level.",
+    "age_group": "explorer",
+    "difficulty": "intermediate",
+    "icon": "\ud83e\udd1d",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "cyberbullying",
+      "age_group": "explorer",
+      "difficulty": "advanced"
+    },
+    "title": "Beat Bullying: Explorer Advanced",
+    "topic": "cyberbullying",
+    "description": "Learn about beat bullying at a advanced level.",
+    "age_group": "explorer",
+    "difficulty": "advanced",
+    "icon": "\ud83e\udd1d",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "cyberbullying",
+      "age_group": "ranger",
+      "difficulty": "beginner"
+    },
+    "title": "Beat Bullying: Ranger Beginner",
+    "topic": "cyberbullying",
+    "description": "Learn about beat bullying at a beginner level.",
+    "age_group": "ranger",
+    "difficulty": "beginner",
+    "icon": "\ud83e\udd1d",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "cyberbullying",
+      "age_group": "ranger",
+      "difficulty": "intermediate"
+    },
+    "title": "Beat Bullying: Ranger Intermediate",
+    "topic": "cyberbullying",
+    "description": "Learn about beat bullying at a intermediate level.",
+    "age_group": "ranger",
+    "difficulty": "intermediate",
+    "icon": "\ud83e\udd1d",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "cyberbullying",
+      "age_group": "ranger",
+      "difficulty": "advanced"
+    },
+    "title": "Beat Bullying: Ranger Advanced",
+    "topic": "cyberbullying",
+    "description": "Learn about beat bullying at a advanced level.",
+    "age_group": "ranger",
+    "difficulty": "advanced",
+    "icon": "\ud83e\udd1d",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "safe_downloads",
+      "age_group": "junior",
+      "difficulty": "beginner"
+    },
+    "title": "Safe Downloads: Junior Beginner",
+    "topic": "safe_downloads",
+    "description": "Learn about safe downloads at a beginner level.",
+    "age_group": "junior",
+    "difficulty": "beginner",
+    "icon": "\ud83d\udcbe",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "safe_downloads",
+      "age_group": "junior",
+      "difficulty": "intermediate"
+    },
+    "title": "Safe Downloads: Junior Intermediate",
+    "topic": "safe_downloads",
+    "description": "Learn about safe downloads at a intermediate level.",
+    "age_group": "junior",
+    "difficulty": "intermediate",
+    "icon": "\ud83d\udcbe",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "safe_downloads",
+      "age_group": "junior",
+      "difficulty": "advanced"
+    },
+    "title": "Safe Downloads: Junior Advanced",
+    "topic": "safe_downloads",
+    "description": "Learn about safe downloads at a advanced level.",
+    "age_group": "junior",
+    "difficulty": "advanced",
+    "icon": "\ud83d\udcbe",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "safe_downloads",
+      "age_group": "explorer",
+      "difficulty": "beginner"
+    },
+    "title": "Safe Downloads: Explorer Beginner",
+    "topic": "safe_downloads",
+    "description": "Learn about safe downloads at a beginner level.",
+    "age_group": "explorer",
+    "difficulty": "beginner",
+    "icon": "\ud83d\udcbe",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "safe_downloads",
+      "age_group": "explorer",
+      "difficulty": "intermediate"
+    },
+    "title": "Safe Downloads: Explorer Intermediate",
+    "topic": "safe_downloads",
+    "description": "Learn about safe downloads at a intermediate level.",
+    "age_group": "explorer",
+    "difficulty": "intermediate",
+    "icon": "\ud83d\udcbe",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "safe_downloads",
+      "age_group": "explorer",
+      "difficulty": "advanced"
+    },
+    "title": "Safe Downloads: Explorer Advanced",
+    "topic": "safe_downloads",
+    "description": "Learn about safe downloads at a advanced level.",
+    "age_group": "explorer",
+    "difficulty": "advanced",
+    "icon": "\ud83d\udcbe",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "safe_downloads",
+      "age_group": "ranger",
+      "difficulty": "beginner"
+    },
+    "title": "Safe Downloads: Ranger Beginner",
+    "topic": "safe_downloads",
+    "description": "Learn about safe downloads at a beginner level.",
+    "age_group": "ranger",
+    "difficulty": "beginner",
+    "icon": "\ud83d\udcbe",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "safe_downloads",
+      "age_group": "ranger",
+      "difficulty": "intermediate"
+    },
+    "title": "Safe Downloads: Ranger Intermediate",
+    "topic": "safe_downloads",
+    "description": "Learn about safe downloads at a intermediate level.",
+    "age_group": "ranger",
+    "difficulty": "intermediate",
+    "icon": "\ud83d\udcbe",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "safe_downloads",
+      "age_group": "ranger",
+      "difficulty": "advanced"
+    },
+    "title": "Safe Downloads: Ranger Advanced",
+    "topic": "safe_downloads",
+    "description": "Learn about safe downloads at a advanced level.",
+    "age_group": "ranger",
+    "difficulty": "advanced",
+    "icon": "\ud83d\udcbe",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "device_security",
+      "age_group": "junior",
+      "difficulty": "beginner"
+    },
+    "title": "Device Security: Junior Beginner",
+    "topic": "device_security",
+    "description": "Learn about device security at a beginner level.",
+    "age_group": "junior",
+    "difficulty": "beginner",
+    "icon": "\ud83d\udda5\ufe0f",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "device_security",
+      "age_group": "junior",
+      "difficulty": "intermediate"
+    },
+    "title": "Device Security: Junior Intermediate",
+    "topic": "device_security",
+    "description": "Learn about device security at a intermediate level.",
+    "age_group": "junior",
+    "difficulty": "intermediate",
+    "icon": "\ud83d\udda5\ufe0f",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "device_security",
+      "age_group": "junior",
+      "difficulty": "advanced"
+    },
+    "title": "Device Security: Junior Advanced",
+    "topic": "device_security",
+    "description": "Learn about device security at a advanced level.",
+    "age_group": "junior",
+    "difficulty": "advanced",
+    "icon": "\ud83d\udda5\ufe0f",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "device_security",
+      "age_group": "explorer",
+      "difficulty": "beginner"
+    },
+    "title": "Device Security: Explorer Beginner",
+    "topic": "device_security",
+    "description": "Learn about device security at a beginner level.",
+    "age_group": "explorer",
+    "difficulty": "beginner",
+    "icon": "\ud83d\udda5\ufe0f",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "device_security",
+      "age_group": "explorer",
+      "difficulty": "intermediate"
+    },
+    "title": "Device Security: Explorer Intermediate",
+    "topic": "device_security",
+    "description": "Learn about device security at a intermediate level.",
+    "age_group": "explorer",
+    "difficulty": "intermediate",
+    "icon": "\ud83d\udda5\ufe0f",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "device_security",
+      "age_group": "explorer",
+      "difficulty": "advanced"
+    },
+    "title": "Device Security: Explorer Advanced",
+    "topic": "device_security",
+    "description": "Learn about device security at a advanced level.",
+    "age_group": "explorer",
+    "difficulty": "advanced",
+    "icon": "\ud83d\udda5\ufe0f",
+    "order_index": 2
+  },
+  {
+    "module_ref": {
+      "topic": "device_security",
+      "age_group": "ranger",
+      "difficulty": "beginner"
+    },
+    "title": "Device Security: Ranger Beginner",
+    "topic": "device_security",
+    "description": "Learn about device security at a beginner level.",
+    "age_group": "ranger",
+    "difficulty": "beginner",
+    "icon": "\ud83d\udda5\ufe0f",
+    "order_index": 0
+  },
+  {
+    "module_ref": {
+      "topic": "device_security",
+      "age_group": "ranger",
+      "difficulty": "intermediate"
+    },
+    "title": "Device Security: Ranger Intermediate",
+    "topic": "device_security",
+    "description": "Learn about device security at a intermediate level.",
+    "age_group": "ranger",
+    "difficulty": "intermediate",
+    "icon": "\ud83d\udda5\ufe0f",
+    "order_index": 1
+  },
+  {
+    "module_ref": {
+      "topic": "device_security",
+      "age_group": "ranger",
+      "difficulty": "advanced"
+    },
+    "title": "Device Security: Ranger Advanced",
+    "topic": "device_security",
+    "description": "Learn about device security at a advanced level.",
+    "age_group": "ranger",
+    "difficulty": "advanced",
+    "icon": "\ud83d\udda5\ufe0f",
+    "order_index": 2
+  }
+]
