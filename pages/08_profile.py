@@ -8,7 +8,7 @@ feedback form, and logout.
 from __future__ import annotations
 import streamlit as st
 from core.auth_service import require_login, logout_user
-from pages.components import sidebar_user_card, xp_progress_bar, page_header, divider, star_rating
+from components import sidebar_user_card, xp_progress_bar, page_header, divider, star_rating
 from core.progress_service import get_user_stats
 from core.evaluation_service import save_feedback, get_evaluation_report
 from db.repositories.reward_repo import RewardRepository

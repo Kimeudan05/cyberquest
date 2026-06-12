@@ -8,7 +8,7 @@ grouped by topic. Users can filter by topic and see their progress.
 from __future__ import annotations
 import streamlit as st
 from core.auth_service import require_login
-from pages.components import sidebar_user_card, page_header, divider
+from components import sidebar_user_card, page_header, divider
 from core.content_service import get_modules_for_user
 from db.repositories.progress_repo import ProgressRepository
 from config.constants import TOPICS, AGE_GROUPS

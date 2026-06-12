@@ -8,7 +8,7 @@ Privacy-safe: shows only username, level, points.
 from __future__ import annotations
 import streamlit as st
 from core.auth_service import require_login
-from pages.components import sidebar_user_card, page_header, divider
+from components import sidebar_user_card, page_header, divider
 from core.reward_service import get_leaderboard
 
 require_login()

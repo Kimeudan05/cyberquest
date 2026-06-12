@@ -8,7 +8,7 @@ before launching the quiz. Includes a pre-test option.
 from __future__ import annotations
 import streamlit as st
 from core.auth_service import require_login
-from pages.components import sidebar_user_card, page_header, divider
+from components import sidebar_user_card, page_header, divider
 from core.content_service import get_module, get_scenarios_for_module
 from config.constants import TOPICS, DIFFICULTY_ORDER
 
@@ -111,15 +111,8 @@ else:
 # ─── Launch quiz ─────────────────────────────────────────────────────────────
 divider()
 
-# Determine difficulty for this quiz
-adaptive_profile = st.session_state.get("adaptive_profile", {})
-from core.quiz_engine import select_difficulty_for_user
-difficulty = select_difficulty_for_user(
-    age_group=age_group,
-    current_level=adaptive_profile.get("current_level", 1),
-    topic_mastery=adaptive_profile.get("topic_mastery", {}),
-    topic=module["topic"],
-)
+# The difficulty is strictly tied to the module the user selected
+difficulty = module["difficulty"]
 
 col_skip, col_start = st.columns([1, 2])
 with col_skip:

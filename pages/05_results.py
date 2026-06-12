@@ -8,7 +8,7 @@ newly awarded badges, and adaptive routing to next action.
 from __future__ import annotations
 import streamlit as st
 from core.auth_service import require_login
-from pages.components import sidebar_user_card, score_badge, badge_reveal, xp_progress_bar, divider
+from components import sidebar_user_card, score_badge, badge_reveal, xp_progress_bar, divider
 from core.quiz_engine import record_quiz_attempt, classify_performance
 from core.adaptive_engine import route_next_action, update_adaptive_profile
 from core.progress_service import update_progress, log_activity

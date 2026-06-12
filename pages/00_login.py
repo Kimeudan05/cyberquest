@@ -109,7 +109,7 @@ with right:
                     ok, msg = login_user(username.strip(), password)
                 if ok:
                     st.success("Welcome back! Loading your quest... 🚀")
-                    st.rerun()
+                    st.switch_page("pages/01_home.py")
                 else:
                     st.error(f"❌ {msg}")
 
@@ -166,11 +166,11 @@ with right:
                         age=int(reg_age),
                     )
                 if ok:
-                    st.success("✅ Account created! Now log in with your new username.")
-                    # Auto-log in
+                    st.success("🎉 Account created! Welcome to CyberQuest!")
+                    # Auto-log in and redirect to home
                     ok2, _ = login_user(reg_username.strip(), reg_password)
                     if ok2:
-                        st.rerun()
+                        st.switch_page("pages/01_home.py")
                 else:
                     st.error(f"❌ {msg}")
 

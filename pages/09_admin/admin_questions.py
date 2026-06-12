@@ -7,7 +7,7 @@ Admin: manage questions per module.
 from __future__ import annotations
 import streamlit as st
 from core.auth_service import require_admin
-from pages.components import sidebar_user_card, page_header, divider
+from components import sidebar_user_card, page_header, divider
 from core.admin_service import create_question, delete_question
 from core.content_service import get_all_modules_admin
 from db.repositories.quiz_repo import QuizRepository

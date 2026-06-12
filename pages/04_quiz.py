@@ -9,7 +9,7 @@ from __future__ import annotations
 from datetime import datetime, timezone
 import streamlit as st
 from core.auth_service import require_login
-from pages.components import sidebar_user_card, divider
+from components import sidebar_user_card, divider
 from core.quiz_engine import get_questions, evaluate_answer, calculate_score
 from core.content_service import get_module
 
@@ -166,19 +166,31 @@ if not show_feedback:
 else:
     # Show chosen answer greyed out (no re-interaction)
     result = quiz["last_result"]
+    chosen = st.session_state.get(f"quiz_choice_{current_idx}", "")
     for k, v in option_labels.items():
         is_correct = k == q["correct_option"]
-        was_chosen = result and k == result.get("correct_option") if result["correct"] else k == st.session_state.get(f"quiz_choice_{current_idx}", "")
-        icon = "✅" if is_correct else "❌" if (not is_correct and not result["correct"] and k == list(option_labels.keys())[list(option_labels.values()).index(result.get("correct_text", ""))]) else "○"
-        # Simple: mark correct answer green
-        colour = "#22c55e" if is_correct else "#6b7280"
+        was_chosen = k == chosen
+        if is_correct:
+            bg_rgba = "52,211,153"
+            border_rgba = "52,211,153"
+            colour = "#22c55e"
+            prefix = "✅"
+        elif was_chosen and not result["correct"]:
+            bg_rgba = "239,68,68"
+            border_rgba = "239,68,68"
+            colour = "#ef4444"
+            prefix = "❌"
+        else:
+            bg_rgba = "107,114,128"
+            border_rgba = "107,114,128"
+            colour = "#6b7280"
+            prefix = "◻"
         st.markdown(
             f'<div style="padding:0.5rem 0.75rem;border-radius:10px;margin:0.3rem 0;'
-            f'background:rgba({"52,211,153" if is_correct else "239,68,68" if not result["correct"] and k == chosen else "107,114,128"},0.1);'
-            f'border:1px solid rgba({"52,211,153" if is_correct else "239,68,68" if not result["correct"] and k == chosen else "107,114,128"},0.25);'
+            f'background:rgba({bg_rgba},0.1);'
+            f'border:1px solid rgba({border_rgba},0.25);'
             f'color:{colour}">'
-            f'{"✅" if is_correct else ("❌" if not result["correct"] and k == chosen else "○")} '
-            f'{k.upper()}. {v}</div>',
+            f'{prefix} {k.upper()}. {v}</div>',
             unsafe_allow_html=True,
         )
 

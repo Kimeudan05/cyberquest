@@ -11,7 +11,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 import pandas as pd
 from core.auth_service import require_login
-from pages.components import sidebar_user_card, xp_progress_bar, score_badge, page_header, divider
+from components import sidebar_user_card, xp_progress_bar, score_badge, page_header, divider
 from core.progress_service import get_user_stats, get_topic_mastery_map, get_recent_activity
 from core.evaluation_service import get_evaluation_report
 from db.repositories.quiz_repo import QuizRepository

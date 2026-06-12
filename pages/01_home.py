@@ -8,7 +8,7 @@ Shows the user's stats, active recommendations, and recent badges.
 from __future__ import annotations
 import streamlit as st
 from core.auth_service import require_login
-from pages.components import (
+from components import (
     sidebar_user_card, xp_progress_bar, badge_reveal, page_header, divider
 )
 from core.progress_service import get_user_stats, get_recent_activity

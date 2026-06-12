@@ -7,7 +7,7 @@ Admin: manage modules (list, publish/unpublish, create, delete).
 from __future__ import annotations
 import streamlit as st
 from core.auth_service import require_admin
-from pages.components import sidebar_user_card, page_header, divider
+from components import sidebar_user_card, page_header, divider
 from core.admin_service import (
     get_engagement_metrics, create_module, update_module,
     delete_module, publish_module,

@@ -9,7 +9,7 @@ import streamlit as st
 import plotly.express as px
 import pandas as pd
 from core.auth_service import require_admin
-from pages.components import sidebar_user_card, page_header, divider
+from components import sidebar_user_card, page_header, divider
 from core.admin_service import get_engagement_metrics
 
 require_admin()

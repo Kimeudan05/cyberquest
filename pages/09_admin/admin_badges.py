@@ -7,7 +7,7 @@ Admin: manage badge catalogue.
 from __future__ import annotations
 import streamlit as st
 from core.auth_service import require_admin
-from pages.components import sidebar_user_card, page_header, divider
+from components import sidebar_user_card, page_header, divider
 from core.admin_service import create_badge, delete_badge
 from db.repositories.reward_repo import RewardRepository
 
